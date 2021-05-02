@@ -58,7 +58,7 @@ export class ThemeModule {
 }
 ```
 
-# Module Usage (just for your imformation - nothing to edit)
+# Module Usage (just for your information - nothing to edit)
 
 To use the newly created `Theme` Module in other modules, you will need to:
 

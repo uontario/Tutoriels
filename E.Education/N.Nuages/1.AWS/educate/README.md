@@ -19,9 +19,11 @@ Dans le cadre des cours sur l'infrastructure info-nuagique, vous aurez besoin d'
 
 ## :a: Créer un compte AWS Educate
 
+###### :zero: Rejoindre AWS Educate
+
 https://aws.amazon.com/fr/education/awseducate/
 
-###### :one: Form 1/3
+Cliquer sur le bouton `Rejoindre AWS Educate`
 
 * Suivre les instructions de remplissage d'utilisateurs de type `Étudiants`
 

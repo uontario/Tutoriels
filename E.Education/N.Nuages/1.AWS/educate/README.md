@@ -25,11 +25,13 @@ https://aws.amazon.com/fr/education/awseducate/
 
 Cliquer sur le bouton `Rejoindre AWS Educate`
 
+###### :one: Étape 1/3 : Choisir votre rôle
+
 * Suivre les instructions de remplissage d'utilisateurs de type `Étudiants`
 
 ![image](images/EducateForm1.png)
 
-###### :two: Form 2/3
+###### :two: Étape 2/3 : Nous donner des informations sur vous
 
 * Pour `étudiants`, créer le compte avec le courriel `@uontario.ca`  
 
@@ -44,7 +46,7 @@ Cliquer sur le bouton `Rejoindre AWS Educate`
 
 ---
 
-###### :three: Form 3/3
+###### :three: Étape 3/3 : Choisir parmi ceux-ci
 
 * Choisir entre:
 

@@ -33,7 +33,7 @@ aws-cli/1.16.280 Python/3.7.5 Darwin/19.0.0 botocore/1.13.16
 $ aws ec2 describe-regions
 ```
 
-* [Configurer](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-configure.html) la  région par défault (dans notre example us-east-1)
+* [Configurer](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-configure.html) la  région par défault (dans notre example ca-central-1)
 
 ```
 $ aws configure

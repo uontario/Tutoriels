@@ -53,7 +53,7 @@ Default region name [None]: ca-central-1
 Default output format [None]:
 ```
 
-:bulb: pour initialiser un profil par défaut, assigner le profil à la variable d'environmment `AWS_PROFILE`
+:bulb: pour initialiser un profil par défaut, assigner le profil à la variable d'environemment `AWS_PROFILE`
 
 ```
 $ export AWS_PROFILE=mon-profil

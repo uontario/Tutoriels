@@ -37,9 +37,9 @@ $ aws ec2 describe-regions
 
 ```
 $ aws configure
-AWS Access Key ID [****************DN2Q]: 
-AWS Secret Access Key [****************nl3Z]: 
-Default region name []: us-east-1
+AWS Access Key ID [None]: ****************DN2Q
+AWS Secret Access Key [None]: ****************nl3Z
+Default region name [None]: ca-central-1
 Default output format [None]:
 ```
 
@@ -47,9 +47,9 @@ Default output format [None]:
 
 ```
 $ aws configure --profile mon-profil
-AWS Access Key ID [****************DN2Q]: 
-AWS Secret Access Key [****************nl3Z]: 
-Default region name []: us-east-1
+AWS Access Key ID [None]: ****************DN2Q
+AWS Secret Access Key [None]: ****************nl3Z
+Default region name [None]: ca-central-1
 Default output format [None]:
 ```
 

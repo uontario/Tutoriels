@@ -22,7 +22,7 @@ $ choco install awscli
 
 ```
 $ aws --version
-aws-cli/1.16.280 Python/3.7.5 Darwin/19.0.0 botocore/1.13.16
+aws-cli/2.2.5 Python/3.9.5 Darwin/20.4.0 source/arm64 prompt/off
 ```
 
 ## :one: Configuration ~/.aws/config

@@ -7,7 +7,7 @@ Installer :chocolate_bar: [C.Chocolatey](C.Chocolatey)
 
 ## :b: :apple: Sous MacOS
 
-Installer :beer: [H.Homebrew](B.Brew)
+Installer :beer: [(H.Homebrew)]
 
 
 ## :ab: :penguin: Linux 

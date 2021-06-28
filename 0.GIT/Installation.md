@@ -5,7 +5,7 @@ https://towardsdatascience.com/10-git-commands-you-should-know-df54bea1595c
 
 ## :one: Installation avec un [Package Manager](../P.GestionnaireDeLibrairies) (Recommandé)
 
-### Installation avec [chocolatey](https://chocolatey.org) - Pour [Windows](../P.GestionnaireDeLibrairies/Windows.md) Seulement
+### Installation avec [chocolatey](https://chocolatey.org) - Pour [Windows](../P.GestionnaireDeLibrairies/#a-computer-sous-windows) Seulement
 
 
 ```
